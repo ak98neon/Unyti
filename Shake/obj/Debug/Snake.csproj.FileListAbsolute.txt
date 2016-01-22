@@ -7,3 +7,6 @@ D:\C++ Projects\Shake\Shake\obj\Debug\Shake.pdb
 D:\Games\git\Shake\bin\Debug\Shake.exe.config
 D:\Games\git\Shake\obj\Debug\Shake.exe
 D:\Games\git\Shake\obj\Debug\Shake.pdb
+D:\Games\git\Shake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Games\git\Shake\bin\Debug\Shake.exe
+D:\Games\git\Shake\bin\Debug\Shake.pdb
